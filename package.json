@@ -1,0 +1,21 @@
+{
+  "name": "kodi",
+  "version": "0.1.0",
+  "description": "A dependency injection framework for knockoutjs",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "karma": "^0.12.23",
+    "karma-chrome-launcher": "^0.1.4",
+    "karma-jasmine": "^0.2.2",
+    "karma-jasmine-html-reporter": "^0.1.5"
+  },
+  "scripts": {
+    "test": "./node_modules/karma/bin/karma start"
+  },
+  "author": "dflor003@gmail.com",
+  "license": "MIT"
+}

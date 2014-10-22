@@ -1,0 +1,25 @@
+{
+    "name": "kodi",
+    "version": "0.1.0",
+    "authors": [
+        "Danil Flores <dflor003@gmail.com>"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "./Scripts/lib",
+        "test",
+        "tests",
+        "./scripts/lib"
+    ],
+    "description": "A dependency injection framework for KnockoutJS",
+    "keywords": [
+        "knockoutjs",
+        "di"
+    ],
+    "dependencies": {
+        "knockoutjs": "~3.2.0"
+    }
+}
